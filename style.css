@@ -4,8 +4,8 @@ html, body{
 }
 
 canvas{
-    display:block;
+    display: block;  
 }
 terra{
-    align="center"
-}
+align="center"
+ }
