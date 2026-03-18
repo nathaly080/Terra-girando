@@ -1,10 +1,6 @@
-let terra;
-
-function preload(){
-    terra= loadImage ('terra.jpg')
-}
 function setup() {
     createCanvas(1920,1080, WEBGL);//plano 3D
+    terra=loandImage('terra.jpg')
 }
 
 function draw(){
